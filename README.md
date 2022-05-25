@@ -9,7 +9,7 @@ and sporadic Parkinson’s disease (PD).
 
 The most common mutation in LRRK2-associated PD, G2019S in the kinase domain, shows higher kinase activity than that of the wildtype.  
 
-<img src='https://images.app.goo.gl/opvKmaY5fVLZUnB68' />  
+<img src="https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/b7291760-8474-48be-b558-7f52fa1ae57d/fx1.jpg" width=500/>  
 
 ### Aim  
 In the current project, we will perform domain-based burden analyses in Parkinson's disease genes (discovered in familial analysis and GWAS).  
